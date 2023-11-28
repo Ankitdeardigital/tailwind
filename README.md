@@ -1,2 +1,2 @@
-# tailwind
+# Tailwind
 Learning tailwind
